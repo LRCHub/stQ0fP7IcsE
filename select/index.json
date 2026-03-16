@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "囮囚",
+  "base_artist": "BLUE ENCOUNT",
+  "createdAt": "2026-03-16T00:25:26.982470Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "囮囚",
+      "artist": "Blue Encount",
+      "has_synced": true,
+      "path": "select/01_囮囚_Blue_Encount.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "囮囚",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": false,
+      "path": "select/pl_01_囮囚_BLUE_ENCOUNT.txt"
+    }
+  ]
+}
